@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a front 
+#### I'm a Frontend Developer working at Inovance since March 2021
 
 <!--
 **sky124380729/sky124380729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
